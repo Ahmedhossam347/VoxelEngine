@@ -2,7 +2,7 @@
 
 ## Overview
 This voxel engine is inspired by the retro voxel rendering techniques used in 90s games like *Comanche*.
-![Voxel Engine Preview](images/screenshot.png)
+![Voxel Engine Preview](screenshot.png)
 ## Features
 - **Optimized for Performance:**
   - Easier to run on older hardware.
